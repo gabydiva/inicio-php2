@@ -1,0 +1,12 @@
+<?php
+$nome = "gabriely";
+$idade = 17;
+$altura = 1.65;
+$trabalho = "estudante";
+$escola = "Marcos Holanda";
+$filme = "ficção";
+$horas = 2;
+$minutos = 20;
+echo "meu nome é {$nome}, tenho {$idade} anos e minha altura é {$altura}. sou {$trabalho} na escola {$escola}. no meu tempo livre, gosto de 
+assistir filmes de {$filme}. o último filme que assisti tinha {$horas}h e {$minutos}min."
+?>]
